@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1661480755 source:c:\users\pedro\desktop\aeds2 phyton\prova1\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcionario.h"
+
+1661479612 c:\users\pedro\desktop\aeds2 phyton\prova1\funcionario.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1661545597 source:c:\users\pedro\desktop\aeds2 phyton\prova1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Funcionario.h"
+
+1663093317 source:c:\users\cesar\onedrive\Área de trabalho\p1 aeds2\cesar lopes 20.1.8038 pedro augusto 19.1.8054\funcionario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcionario.h"
+
+1662480057 c:\users\cesar\onedrive\Área de trabalho\p1 aeds2\cesar lopes 20.1.8038 pedro augusto 19.1.8054\funcionario.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1663101612 source:c:\users\cesar\onedrive\Área de trabalho\p1 aeds2\cesar lopes 20.1.8038 pedro augusto 19.1.8054\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Funcionario.h"
+
